@@ -1,6 +1,8 @@
-# README
+###### README
 
-<img  style="display: block; margin-left: auto; margin-right: auto" src="./src/assets/logo.svg" alt="Logo"/></br>
+<div align="center">
+<img  src="./src/assets/logo.svg" alt="Logo"/></br>
+</div>
 <h1 align="center" style="font-weight:bold; color:#61DBFB">Refactoring de classes e typescript</h1>
 
 <p align="center" style="font-size:18px; font-weight:bold" >
@@ -13,7 +15,7 @@
 
 # Sobre
 <h4 style="font-size:22px">Desafio - 02 referente ao chapter II da Trilha de ReactJS. Nesse desafio tive que migrar uma aplicação de Javascript e Class Components para Typescript e Function Components.</h4>
-<h4>O GoRestaurant é uma aplicação que permnite></h4>
+<h4>O GoRestaurant é uma aplicação que permite:</h4>
 <p>-Visualizar o cardápio</p>
 <p>-Informar se o prato está disponivél/indisponivél</p>
 <p>-Adicionar um novo prato ao cardápio</p>
@@ -32,11 +34,11 @@
 
 
 # Layout
-<p>A</p>
-<p>A</p>
-<p>A</p>
-<p>A</p>
-<p>A</p>
+![imagem](https://github.com/vanessanascoliv/ignite-reactjs-refactoring-classes-ts/blob/master/src/assets/GoRestaurant-home.png)
+![imagem](https://github.com/vanessanascoliv/ignite-reactjs-refactoring-classes-ts/blob/master/src/assets/GoRestaurante-AddFood.png)
+![imagem](https://github.com/vanessanascoliv/ignite-reactjs-refactoring-classes-ts/blob/master/src/assets/GoRestauranteEditFood.png)
+
+
 
 
 # Como-execultar
@@ -45,7 +47,7 @@
 https://github.com/vanessanascoliv/ignite-reactjs-refactoring-classes-ts
 
 # Acesse a pasta do projeto no terminal/cmd
-ignite-hook-de-carrinho-de-compras
+ignite-reactjs-refactoring-classes-ts
 
 # Instale as dependências
 yarn
